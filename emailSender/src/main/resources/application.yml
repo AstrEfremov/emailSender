@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: pqp.ast.efremov@gmail.com
+    password: mngf lqox ofph bqzb
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
