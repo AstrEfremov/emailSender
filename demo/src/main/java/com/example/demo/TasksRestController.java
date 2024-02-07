@@ -1,12 +1,10 @@
 package com.example.demo;
 
 
-import org.apache.logging.log4j.message.Message;
 import org.springframework.context.MessageSource;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.util.UriComponentsBuilder;
 
 import java.util.List;
